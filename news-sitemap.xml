@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
+
+  <url>
+    <loc>https://tnewsiu.blogspot.com/</loc>
+    <lastmod>2024-09-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://tnewsiu.blogspot.com/2024/09/openai-board-considers-equity.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>TNews IU</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2024-09-27</news:publication_date>
+      <news:title>OpenAI Board Considers Equity Compensation for CEO Sam Altman</news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://tnewsiu.blogspot.com/2024/09/us-enhances-strategic-ties-with-israel.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>TNews IU</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2024-09-27</news:publication_date>
+      <news:title>US Enhances Strategic Ties with Israel through Mega Military Aid</news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://tnewsiu.blogspot.com/2024/09/uks-keir-starmer-aims-to-establish.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>TNews IU</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2024-09-27</news:publication_date>
+      <news:title>UK’s Keir Starmer Aims to Establish Relationship with Donald Trump</news:title>
+    </news:news>
+  </url>
+
+</urlset>
